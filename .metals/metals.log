@@ -1,0 +1,70 @@
+2023.07.10 10:43:59 INFO  Started: Metals version 0.11.12 in workspace 'D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5' for client Visual Studio Code 1.80.0.
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.license.VersionPrinter printVersionOnly
+INFO: Flyway Community Edition 9.16.3 by Redgate
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: See release notes here: https://rd.gt/416ObMi
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.license.VersionPrinter printVersion
+INFO: 
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.database.base.BaseDatabaseType createDatabase
+INFO: Database: jdbc:h2:file:D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\.metals\metals (H2 2.1)
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory allAppliedMigrations
+INFO: Schema history table "PUBLIC"."flyway_schema_history" does not exist yet
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.command.DbValidate validate
+INFO: Successfully validated 4 migrations (execution time 00:00.016s)
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.schemahistory.JdbcTableSchemaHistory create
+INFO: Creating Schema History table "PUBLIC"."flyway_schema_history" ...
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.command.DbMigrate migrateGroup
+INFO: Current version of schema "PUBLIC": << Empty Schema >>
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "1 - Create tables"
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "2 - Server discovery"
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "3 - Jar symbols"
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.command.DbMigrate doMigrateGroup
+INFO: Migrating schema "PUBLIC" to version "4 - Fingerprints"
+Jul 10, 2023 10:44:00 AM org.flywaydb.core.internal.command.DbMigrate logSummary
+INFO: Successfully applied 4 migrations to schema "PUBLIC", now at version v4 (execution time 00:00.045s)
+2023.07.10 10:44:01 INFO  time: initialize in 0.93s
+2023.07.10 10:44:01 WARN  Build server is not auto-connectable.
+2023.07.10 10:44:01 WARN  no build tool detected in workspace 'D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5'. The most common cause for this problem is that the editor was opened in the wrong working directory, for example if you use sbt then the workspace directory should contain build.sbt. 
+2023.07.10 10:44:01 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 10:44:06 INFO  no build target found for D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala. Using presentation compiler with project's scala-library version: 3.2.2
+Jul 10, 2023 10:44:06 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 10
+2023.07.10 10:44:07 INFO  time: code lens generation in 1.17s
+2023.07.10 10:44:07 INFO  time: code lens generation in 1.1s
+2023.07.10 10:44:07 INFO  time: code lens generation in 1.17s
+2023.07.10 10:44:07 INFO  time: code lens generation in 1.11s
+2023.07.10 11:16:30 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+Jul 10, 2023 11:16:37 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1111
+2023.07.10 11:17:10 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 11:17:58 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 11:18:40 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 11:21:31 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 11:22:19 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 11:22:37 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 11:25:25 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 11:26:55 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 11:28:56 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+Jul 10, 2023 11:32:32 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 1903
+2023.07.10 11:32:37 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 11:33:26 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+Jul 10, 2023 11:49:49 AM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2313
+Jul 10, 2023 1:00:55 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: NoDenotation.owner
+java.lang.AssertionError: NoDenotation.owner
+	at dotty.tools.dotc.core.SymDenotations$NoDenotation$.owner(SymDenotations.scala:2511)
+	at scala.meta.internal.pc.MetalsInteractive$.enclosingSymbolsWithExpressionType(MetalsInteractive.scala:261)
+	at scala.meta.internal.pc.HoverProvider$.hover(HoverProvider.scala:98)
+
+2023.07.10 13:07:35 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 13:08:06 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 13:08:39 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 13:09:19 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 13:10:34 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 13:12:59 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
+2023.07.10 13:14:38 WARN  no build target for: D:\Universtiy Acaemic\2nd Year - 1st Sem\SCS2204 - Functional Programming\Tutorials\5\21002169_FP_Tutorial5.scala
